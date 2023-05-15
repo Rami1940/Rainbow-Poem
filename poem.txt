@@ -2,10 +2,10 @@ The forked version has been edited
 000000000000
 
 The Rainbow and the Unicorn Updated 2
-
+ffffffffff
 Joe
 Pink
-Orange
+Orange of jus 
 Tourqoise 2
 Silver 2
 Green
@@ -13,3 +13,4 @@ Yellow
 Red
 These are the color of the rainbow
 and the Unicorn
+1002
